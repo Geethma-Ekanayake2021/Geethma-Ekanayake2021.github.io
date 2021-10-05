@@ -24,13 +24,13 @@ LinkedIn : [Geethma Ekanayake](https://www.linkedin.com/in/geethma-ekanayake-769
 
 #### Secondary Education 
 
-> Hillwood College Kandy
+> **Hillwood College Kandy**
 
    G.C.E Ordinary level examination – 2014
 
    Index number : 43874495 Grade : 8As 1C
 
-> Mahamaya Girls’ College Kandy
+> **Mahamaya Girls’ College Kandy**
 
    G.C.E Advanced level examination – 2020
 
@@ -40,7 +40,7 @@ LinkedIn : [Geethma Ekanayake](https://www.linkedin.com/in/geethma-ekanayake-769
 
 #### Higher Education
 
-> Sri Lanka Institute of Information Technology, Malabe, Sri-Lanka 
+> **Sri Lanka Institute of Information Technology, Malabe, Sri-Lanka** 
 
   Undergraduate of B.Sc.(Hons) in Biotechnology
 
