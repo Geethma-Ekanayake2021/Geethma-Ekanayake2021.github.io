@@ -8,7 +8,7 @@
 
 I am currently a first year undergraduate student following the degree BSc(Hons)in Biotechnology at SLIIT. I believe that life is not about finding but creating myself.I'm passionate about gaining new experiences, facing challenges and learning new things.I acknowledge my own self worth;my self confidence soaring.I am adept at handling mutiple tasks on a daily basis and working well under pressure, bringing forth a motivated attitude and a variety of powerful skills. I'm hardworking, diligent, and dedicated-all qualities l put forward in everything I do. 
 
-![image](https://user-images.githubusercontent.com/91940743/136059067-63ab7579-27fb-43b7-9d02-1584055f5733.png)
+![WhatsApp Image 2021-10-05 at 21 28 51](https://user-images.githubusercontent.com/91940743/136059739-4621ffcc-5c0f-4045-be0f-30bd5f2cbd8d.jpeg)
 
 ### Contact details:
 
