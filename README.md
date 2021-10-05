@@ -6,7 +6,7 @@
 
 ### About Me: 
 
-I am currently a first year undergraduate student following the degree BSc(Hons)in Biotechnology at SLIIT. I believe that life is not about finding but creating myself.I'm passionate about gaining new experiences, facing challenges and learning new things.I acknowledge my own self worth;my self confidence soaring.
+I am currently a first year undergraduate student following the degree BSc(Hons)in Biotechnology at SLIIT. I believe that life is not about finding but creating myself.I'm passionate about gaining new experiences, facing challenges and learning new things.I acknowledge my own self worth;my self confidence soaring.I am adept at handling mutiple tasks on a daily basis and working well under pressure, bringing forth a motivated attitude and a variety of powerful skills. I'm hardworking, diligent, and dedicated-all qualities l put forward in everything I do. 
 
 ![Photograph](https://user-images.githubusercontent.com/91940743/136012584-09c77be8-32c3-4535-9a0b-dfcd263b1fa6.jpeg)
 
@@ -16,7 +16,7 @@ E-mail : [hs21916830@my.sliit.lk](mailto:hs21916830@my.sliit.lk)
 
 LinkedIn : geethma-ekanayake-769792218
 
-[Download Resume] https://drive.google.com/file/d/1Lsy_CUizUSAFRKAYa1Dj-mQid9H-oz0C/view?usp=sharing
+[Download Resume](https://drive.google.com/file/d/1Lsy_CUizUSAFRKAYa1Dj-mQid9H-oz0C/view?usp=sharing)
 
 ### EDUCATIONAL BACKGROUND
 
