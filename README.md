@@ -14,7 +14,7 @@ I am currently a first year undergraduate student following the degree BSc(Hons)
 
 E-mail : [hs21916830@my.sliit.lk](mailto:hs21916830@my.sliit.lk) 
 
-LinkedIn : geethma-ekanayake-769792218
+LinkedIn : [Geethma Ekanayake](https://www.linkedin.com/in/geethma-ekanayake-769792218/?originalSubdomain=lk)
 
 [Download Resume](https://drive.google.com/file/d/1Lsy_CUizUSAFRKAYa1Dj-mQid9H-oz0C/view?usp=sharing)
 
