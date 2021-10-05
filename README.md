@@ -22,29 +22,29 @@ LinkedIn : geethma-ekanayake-769792218
 
 #### Secondary Education 
 
-Hillwood College Kandy
+> Hillwood College Kandy
 
- G.C.E Ordinary level examination – 2014
+   G.C.E Ordinary level examination – 2014
 
- Index number : 43874495 Grade : 8As 1C
+   Index number : 43874495 Grade : 8As 1C
 
-Mahamaya Girls’ College Kandy
+> Mahamaya Girls’ College Kandy
 
- G.C.E Advanced level examination – 2020
+   G.C.E Advanced level examination – 2020
 
- ( Biological Science Stream)
+   ( Biological Science Stream)
 
- Index number : 9263179 Grade : 1C 2Ss
+   Index number : 9263179 Grade : 1C 2Ss
 
 #### Higher Education
 
-Sri Lanka Institute of Information Technology, Malabe, Sri-Lanka 
+> Sri Lanka Institute of Information Technology, Malabe, Sri-Lanka 
 
-Undergraduate of B.Sc.(Hons) in Biotechnology
+  Undergraduate of B.Sc.(Hons) in Biotechnology
 
 **Experiences**
 
-A research on Phytoremediation and waste water treatment
+ A research on Phytoremediation and waste water treatment
 
 (Checked the efficiency of Canna plant in absorbing heavy metals in inland water)
 
@@ -70,76 +70,35 @@ Member of the School Buddhist Association(2015-2017)
 
 ### SKILLS
 
-Languages
-
+* Languages
 -Sinhala – Mother tongue
-
 -English – Excellent fluency
-
 -Tamil
-
 -German
-
- Self – motivation
-
- Creativity
-
- Excellent written and verbal communication skills
-
- Social Skills
-
- Work ethic
-
- Analytical thinking
-
- Time management
-
- Highly organized and efficient ability to work
-independently or as a team proven leadership skills
-
- Eager to learn new things and take new risks
-
- Emotional intelligence and empathy
- 
- Problem solving
+* Self – motivation
+* Creativity
+* Excellent written and verbal communication skills
+* Social Skills
+* Work ethic
+* Analytical thinking
+* Time management
+* Highly organized and efficient ability to work
+ independently or as a team proven leadership skills
+* Eager to learn new things and take new risks
+* Emotional intelligence and empathy
+* Problem solving
 
 ### HOBBIES
 
- Reading
- Singing
- Playing guitar
- Cooking and baking
- Collecting stamps
- Adventure hiking
- Playing badminton
+ * Reading
+ * Singing
+ * Playing guitar
+ * Cooking and baking
+ * Collecting stamps
+ * Adventure hiking
+ * Playing badminton
  
  
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Geethma-Ekanayake2021/Geethma-Ekanayake2021.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
