@@ -1,17 +1,15 @@
 # <h1 align="center">**Geethma Ekanayake**</h1> 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/91940743/136060691-e0de4760-d441-4a67-85d5-f936b69f1d55.jpeg"alt="Material Bread logo"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91940743/136074198-c5d51116-0920-42a8-895f-efec778399e8.jpg"alt="Material Bread logo"></p>
 
-## <h1 align="center">**BSc(Hons)in Biotechnology (Undergraduate Student)**</h1> 
+## <h2 align="center">**BSc(Hons)in Biotechnology (Undergraduate Student)**</h1> 
 
-#### <h1 align="center">**Nothing worth having comes easy!**</h1>
+#### <h3 align="center">**Nothing worth having comes easy!**</h1>
 
 ### About Me: 
 
 I am currently a first year undergraduate student following the degree BSc(Hons)in Biotechnology at SLIIT.I'm a performance-driven, action oriented and a reliable student offering exceptional communication skills and the imporatant ability to function well in challenging environments.I am adept at handling mutiple tasks on a daily basis and working well under pressure, bringing forth a motivated attitude and a variety of powerful skills. I'm hardworking, diligent, and dedicated-all qualities l put forward in everything I do. I acknowledge my own self worth;my self confidence soaring.I believe that life is not about finding but creating myself.
 
-
-                 
 ### Contact details:
 
 E-mail : [hs21916830@my.sliit.lk](mailto:hs21916830@my.sliit.lk) 
