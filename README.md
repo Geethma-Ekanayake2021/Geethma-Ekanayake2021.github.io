@@ -1,10 +1,11 @@
-# <h1 align="center">**Geethma Ekanayake**</h1> 
+# <h1 align="center"> **Geethma Ekanayake**</h1> 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/91940743/136074198-c5d51116-0920-42a8-895f-efec778399e8.jpg"alt="Material Bread logo"></p>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/91940743/136074198-c5d51116-0920-42a8-895f-efec778399e8.jpg"alt="Material Bread logo"></p>
 
-## <h2 align="center">**BSc(Hons)in Biotechnology (Undergraduate Student)**</h1> 
+## <h2 align="center"> **BSc(Hons)in Biotechnology (Undergraduate Student)**</h1> 
 
-#### <h3 align="center">**Nothing worth having comes easy!**</h1>
+#### <h3 align="center"> **Nothing worth having comes easy!**</h1>
 
 ### About Me: 
 
