@@ -24,17 +24,17 @@ LinkedIn : geethma-ekanayake-769792218
 
 Hillwood College Kandy
 
-G.C.E Ordinary level examination – 2014
+ G.C.E Ordinary level examination – 2014
 
-Index number : 43874495 Grade : 8As 1C
+ Index number : 43874495 Grade : 8As 1C
 
 Mahamaya Girls’ College Kandy
 
-G.C.E Advanced level examination – 2020
+ G.C.E Advanced level examination – 2020
 
-( Biological Science Stream)
+ ( Biological Science Stream)
 
-Index number : 9263179 Grade : 1C 2Ss
+ Index number : 9263179 Grade : 1C 2Ss
 
 #### Higher Education
 
@@ -106,17 +106,11 @@ independently or as a team proven leadership skills
 ### HOBBIES
 
  Reading
-
  Singing
-
  Playing guitar
-
  Cooking and baking
-
  Collecting stamps
-
  Adventure hiking
-
  Playing badminton
  
  
