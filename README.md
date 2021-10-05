@@ -1,12 +1,126 @@
-## Welcome to GitHub Pages
+# **Geethma Ekanayake**
 
-You can use the [editor on GitHub](https://github.com/Geethma-Ekanayake2021/Geethma-Ekanayake2021.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## BSc(Hons)in Biotechnology (Undergraduate Student) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Nothing worth having comes easy!** 
 
-### Markdown
+### About Me: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently a first year undergraduate student following the degree BSc(Hons)in Biotechnology at SLIIT. I believe that life is not about finding but creating myself.I'm passionate about gaining new experiences, facing challenges and learning new things.I acknowledge my own self worth;my self confidence soaring.
+
+![Photograph](https://user-images.githubusercontent.com/91940743/136012584-09c77be8-32c3-4535-9a0b-dfcd263b1fa6.jpeg)
+
+### Contact details:
+
+E-mail : [hs21916830@my.sliit.lk](mailto:hs21916830@my.sliit.lk) 
+
+LinkedIn : geethma-ekanayake-769792218
+
+[Download Resume] https://drive.google.com/file/d/1Lsy_CUizUSAFRKAYa1Dj-mQid9H-oz0C/view?usp=sharing
+
+### EDUCATIONAL BACKGROUND
+
+#### Secondary Education 
+
+Hillwood College Kandy
+
+G.C.E Ordinary level examination – 2014
+
+Index number : 43874495 Grade : 8As 1C
+
+Mahamaya Girls’ College Kandy
+
+G.C.E Advanced level examination – 2020
+
+( Biological Science Stream)
+
+Index number : 9263179 Grade : 1C 2Ss
+
+#### Higher Education
+
+Sri Lanka Institute of Information Technology, Malabe, Sri-Lanka 
+
+Undergraduate of B.Sc.(Hons) in Biotechnology
+
+**Experiences**
+
+A research on Phytoremediation and waste water treatment
+
+(Checked the efficiency of Canna plant in absorbing heavy metals in inland water)
+
+**Awards** : CapNet Lanka – PGIA Junior Water Awards for innovations in schools 2016 – 1st Runner up
+
+### EXTRA CURRICULAR ACTIVITIES
+
+Member of the school science society (2015-2017)
+
+Member of the school Girl Guide Association (2010-2017)
+
+**Special Awards** : Won the Presidents’ Guide Award 2017 (All Island)
+
+Member of the school western band ( Instrument – Trumpet)
+
+Member of the School Western Choir (2010-2015)
+
+Member of the School Astronomical Society(2015-2017)
+
+Member of the School Link Club(2010-2015)
+
+Member of the School Buddhist Association(2015-2017)
+
+### SKILLS
+
+Languages
+
+-Sinhala – Mother tongue
+
+-English – Excellent fluency
+
+-Tamil
+
+-German
+
+ Self – motivation
+
+ Creativity
+
+ Excellent written and verbal communication skills
+
+ Social Skills
+
+ Work ethic
+
+ Analytical thinking
+
+ Time management
+
+ Highly organized and efficient ability to work
+independently or as a team proven leadership skills
+
+ Eager to learn new things and take new risks
+
+ Emotional intelligence and empathy
+ 
+ Problem solving
+
+### HOBBIES
+
+ Reading
+
+ Singing
+
+ Playing guitar
+
+ Cooking and baking
+
+ Collecting stamps
+
+ Adventure hiking
+
+ Playing badminton
+ 
+ 
+
 
 ```markdown
 Syntax highlighted code block
